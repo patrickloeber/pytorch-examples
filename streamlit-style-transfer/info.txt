@@ -1,0 +1,17 @@
+Hi guys, welcome to a new PyTorch tutorial
+Today we'll be implementing a style transfer application with PyTorch
+and streamlit.
+So style transfer means that we have an input image, 
+and also another image in a certain style. And then we apply
+the style to the new image.
+
+mosaic style
+
+So this here is in the officoal pytorch examples repo on GitHub.
+so we are going to wrap this code into a streamlit application.
+If you don't know streamlit, then here's a quick overview.
+Streamlit is an open source framework for building machine
+learning web apps with a nice UI. I already have a whole tutorial
+about this that you can check out. But it is not necessary.
+Streamlit is very easy to use, so you should be able to follow 
+along today.
